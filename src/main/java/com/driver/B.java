@@ -1,6 +1,6 @@
 package com.driver;
 
-public class B extends Main{
+public class B extends A {
 
     public static void main(String[] args) {
         B demo=new B();
